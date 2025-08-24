@@ -27,9 +27,12 @@ Managing and moderating a Discord server can be difficult, and most existing bot
 ---
 
 ## Tech Stack  
-- Python 3.x  
-- [discord.py](https://discordpy.readthedocs.io/en/stable/) (Discord Bot Framework)  
-
+- Python 3.x
+- HTML 
+- [discord.py](https://discordpy.readthedocs.io/en/stable/) (Discord Bot Framework)
+- CSS
+-JS
+-Auth Tokens
 ---
 
 ## How to Run  
